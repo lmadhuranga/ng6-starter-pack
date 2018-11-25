@@ -1,4 +1,4 @@
-# Movies Manager
+# Angular Stater Pack
 
 > Angular 06 with unit test completed project
 
